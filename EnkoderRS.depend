@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1526582323 source:c:\users\przemek\documents\visual studio 2015\projects\enkoderrs\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	"RS_7_3.h"
+
+1526485153 c:\users\przemek\documents\visual studio 2015\projects\enkoderrs\rs_7_3.h
+
