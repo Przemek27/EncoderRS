@@ -7,4 +7,8 @@
 #define G2 0b001        //g2 = a0
 #define G3 0b011        //g3 = a3
 
+void encode(uint8_t *message, uint8_t *encoded_message, uint8_t code_length, uint8_t data_length);
+
+uint8_t multiply(uint8_t a, uint8_t b);
+
 #endif // RS_7_3_H_INCLUDED
